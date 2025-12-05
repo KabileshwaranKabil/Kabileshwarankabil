@@ -1,4 +1,4 @@
-![Header banner](https://raw.githubusercontent.com/KabileshwaranKabil/KabileshwaranKabil/main/github-banner.png)
+![Header banner](https://raw.githubusercontent.com/KabileshwaranKabil/KabileshwaranKabil/main/github-banner.png.png)
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#4CAF50">M. Kabileshwaran</span></h1>
 
