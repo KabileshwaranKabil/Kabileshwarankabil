@@ -72,6 +72,14 @@ I believe in *continuous learning*, *knowledge sharing*, and *collaborating on i
   </a>
 </div>
 
+## 🏆 GitHub Achievements
+<div align="center">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark"/>  
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO"/>  
+
+</div>
+
+
 ## 🚀 Featured Projects  
 🔗 Check out my repositories 👉 [**My GitHub Projects**](https://github.com/Kabileshwarankabil?tab=repositories)  
 
