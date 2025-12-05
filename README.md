@@ -103,6 +103,12 @@ I believe in *continuous learning*, *knowledge sharing*, and *collaborating on i
 ⭐ Thanks for visiting my profile! This is just the beginning of my journey — every project and every challenge makes me better than yesterday.  
 Let’s learn, build, and grow together 🚀✨  
 
+
+#### 📄 Use This README as a Template
+If you want to build your own profile README using this layout, feel free to copy anything you like.  
+Fork the repository or use **‘Use this template’** (if enabled) to start your own version.
+
+
 <p align="center">
   <sub>© 2025 Kabileshwaran — Built with intention, curiosity, and clarity.</sub>
 </p>
