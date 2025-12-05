@@ -1,3 +1,5 @@
+![Header banner](https://raw.githubusercontent.com/KabileshwaranKabil/KabileshwaranKabil/main/github-banner.png)
+
 <h1 align="center">👋 Hey there, I'm <span style="color:#4CAF50">M. Kabileshwaran</span></h1>
 
 <p align="center">
@@ -42,15 +44,16 @@ I believe in *continuous learning*, *knowledge sharing*, and *collaborating on i
   <a href="https://www.reddit.com/user/Kabileshwaran/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 </p>
 
-## 📊 GitHub Insights  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabileshwarankabil&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabileshwarankabil&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+## 🚀 GitHub Stats  
+<div align="center">  
+  <a href="https://github.com/KabileshwaranKabil">  
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KabileshwaranKabil&theme=2077" height="170em" />  
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KabileshwaranKabil&theme=2077" height="170em" />  
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KabileshwaranKabil&theme=2077" height="170em" />  
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KabileshwaranKabil&theme=2077" height="170em" />  
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KabileshwaranKabil&theme=2077" height="170em" />  
+  </a>  
+</div>
 
 ## 🚀 Featured Projects  
 🔗 Check out my repositories 👉 [**My GitHub Projects**](https://github.com/Kabileshwarankabil?tab=repositories)  
