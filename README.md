@@ -27,11 +27,23 @@ I believe in *continuous learning*, *knowledge sharing*, and *collaborating on i
 📚 Pursuing **Computer Science** at **Eastern University of Sri Lanka (Trincomalee Campus)**  
 💡 Inspired by how technology can *transform lives*  
 
-## 🛠️ Skills & Tools  
+<!-- ===========================
+      TECH STACK BADGES
+=========================== -->
+## 🛠️ Tech Stack  
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,git,github,linux,mysql,django,vscode"/>
-</p>
+### Languages  
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" />
+
+### Frameworks & Tools  
+<img src="https://skillicons.dev/icons?i=django,git,linux,idea,vscode" />
+
+### Databases  
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
+</div>
+
 
 
 ## 🌐 Connect With Me
@@ -44,15 +56,20 @@ I believe in *continuous learning*, *knowledge sharing*, and *collaborating on i
   <a href="https://www.reddit.com/user/Kabileshwaran/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 </p>
 
-## 🚀 GitHub Stats  
-<div align="center">  
-  <a href="https://github.com/KabileshwaranKabil">  
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KabileshwaranKabil&theme=2077" height="170em" />  
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KabileshwaranKabil&theme=2077" height="170em" />  
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KabileshwaranKabil&theme=2077" height="170em" />  
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KabileshwaranKabil&theme=2077" height="170em" />  
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KabileshwaranKabil&theme=2077" height="170em" />  
-  </a>  
+<!-- ===========================
+      GITHUB STATS
+=========================== -->
+## 📊 GitHub Stats  
+<div align="center">
+  <a href="https://github.com/KabileshwaranKabil">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KabileshwaranKabil&theme=2077" width="800" />
+    <br/><br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KabileshwaranKabil&theme=2077" height="170" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KabileshwaranKabil&theme=2077" height="170" />
+    <br/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KabileshwaranKabil&theme=2077" height="170" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KabileshwaranKabil&theme=2077" height="170" />
+  </a>
 </div>
 
 ## 🚀 Featured Projects  
@@ -77,3 +94,8 @@ I believe in *continuous learning*, *knowledge sharing*, and *collaborating on i
 
 ⭐ Thanks for visiting my profile! This is just the beginning of my journey — every project and every challenge makes me better than yesterday.  
 Let’s learn, build, and grow together 🚀✨  
+
+<p align="center">
+  <sub>© 2025 Kabileshwaran — Built with intention, curiosity, and clarity.</sub>
+</p>
+
