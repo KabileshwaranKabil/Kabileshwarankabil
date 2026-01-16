@@ -100,6 +100,13 @@ I believe in *continuous learning*, *knowledge sharing*, and *collaborating on i
 - ✨ Believer in **hard work + smart work = growth**  
 
 
+## Git Resources
+
+- 📘 **Git Basics Cheat Sheet**  
+  Beginner-friendly Git commands with explanations and examples.  
+  👉 https://gist.github.com/KabileshwaranKabil/9486a4e47ca5d71beb385328ac0a8c86
+
+
 ⭐ Thanks for visiting my profile! This is just the beginning of my journey — every project and every challenge makes me better than yesterday.  
 Let’s learn, build, and grow together 🚀✨  
 
