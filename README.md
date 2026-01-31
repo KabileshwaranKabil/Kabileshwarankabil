@@ -1,4 +1,4 @@
-<h1>I'm <span style="color:#4CAF50">M. Kabileshwaran</span></h1>
+<h1>Hi, I'm <span style="color:#4CAF50">Kabileshwaran</span></h1>
 
 <p>
   <em>🎓 Computer Science Student • 💡 Curious Learner • ⚡ Problem Solver • 🌐 Tech Explorer</em>
