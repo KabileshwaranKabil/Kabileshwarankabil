@@ -224,6 +224,7 @@ I love sharing knowledge through writing. Here are some of my recent writings:
   <a href="https://kabileshwarankabil.github.io/"><img src="https://img.shields.io/badge/Personal_Site-000000?style=for-the-badge&logo=github&logoColor=white" alt="Personal Site"/></a>
 </p>
 
+![Contribution Snake](https://raw.githubusercontent.com/KabileshwaranKabil/KabileshwaranKabil/output/github-contribution-grid-snake.svg)
 
 ## 📞 Contact
 
