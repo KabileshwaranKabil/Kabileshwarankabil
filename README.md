@@ -32,8 +32,6 @@
 
 ## 📊 GitHub Analytics & Contributions
 
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=KabileshwaranKabil&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)
 
 ### 📈 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KabileshwaranKabil&theme=github-dark&hide_border=true&area=true&custom_title=Kabileshwaran's%20Contribution%20Activity)
@@ -52,9 +50,6 @@
     </td>
   </tr>
 </table>
-
-### 🐍 Contribution Snake
-![snake gif](https://github.com/KabileshwaranKabil/KabileshwaranKabil/blob/output/github-contribution-grid-snake.svg)
 
 ### 🌟 Contribution Highlights
 - **Active Contributor** to multiple open-source projects
@@ -244,7 +239,6 @@ I love sharing knowledge through writing. Here are some of my recent writings:
   <a href="https://kabileshwarankabil.github.io/"><img src="https://img.shields.io/badge/Personal_Site-000000?style=for-the-badge&logo=github&logoColor=white" alt="Personal Site"/></a>
 </p>
 
-![Contribution Snake](https://raw.githubusercontent.com/KabileshwaranKabil/KabileshwaranKabil/output/github-contribution-grid-snake.svg)
 
 ## 📞 Contact
 
