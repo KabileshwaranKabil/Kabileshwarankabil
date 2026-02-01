@@ -30,6 +30,41 @@
 > 💭 *"The best way to predict the future is to create it."* – Peter Drucker
 
 
+## 📊 GitHub Analytics & Contributions
+
+### 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=KabileshwaranKabil&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)
+
+### 📈 Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KabileshwaranKabil&theme=github-dark&hide_border=true&area=true&custom_title=Kabileshwaran's%20Contribution%20Activity)
+
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=KabileshwaranKabil&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117)
+
+### 📊 GitHub Stats
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=KabileshwaranKabil&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KabileshwaranKabil&layout=compact&theme=radical&hide_border=true" height="165" />
+    </td>
+  </tr>
+</table>
+
+### 🐍 Contribution Snake
+![snake gif](https://github.com/KabileshwaranKabil/KabileshwaranKabil/blob/output/github-contribution-grid-snake.svg)
+
+### 🌟 Contribution Highlights
+- **Active Contributor** to multiple open-source projects
+- **Regular commits** across different tech stacks
+- **Code reviews** and issue triaging
+- **Documentation improvements** and bug fixes
+- **Project maintenance** and dependency updates
+
+*GitHub activity updated daily via GitHub Actions*
+
 ## 🎯 Current Focus
 
 <div align="center">
@@ -110,21 +145,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-</div>
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/KabileshwaranKabil">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KabileshwaranKabil&theme=2077" width="800" />
-    <br/><br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=KabileshwaranKabil&show_icons=true&theme=default&hide_border=true&count_private=true" height="170" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KabileshwaranKabil&theme=radical&hide_border=true" height="170" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KabileshwaranKabil&layout=compact&theme=radical&hide_border=true" height="170" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KabileshwaranKabil&theme=2077" height="170" />
-  </a>
 </div>
 
 
@@ -299,11 +319,8 @@ I love sharing knowledge through writing. Here are some of my recent writings:
 </p>
 
 ⭐ **Thanks for visiting my profile!** This is just the beginning of my journey — every project and every challenge makes me better than yesterday.  
-Let’s learn, build, and grow together 🚀✨
+Let's learn, build, and grow together 🚀✨
 
 <p align="center">
   <sub>© 2026 Kabileshwaran — Built with intention, curiosity, and clarity.</sub>
 </p>
-
-
-
