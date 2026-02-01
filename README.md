@@ -119,7 +119,7 @@
   <a href="https://github.com/KabileshwaranKabil">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KabileshwaranKabil&theme=2077" width="800" />
     <br/><br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=KabileshwaranKabil&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
+    <img src="https://github-readme-stats.vercel.app/api?username=KabileshwaranKabil&show_icons=true&theme=default&hide_border=true&count_private=true" height="170" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=KabileshwaranKabil&theme=radical&hide_border=true" height="170" />
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KabileshwaranKabil&layout=compact&theme=radical&hide_border=true" height="170" />
