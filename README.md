@@ -1,317 +1,166 @@
-<h1>Hi, I'm <span style="color:#4CAF50">Kabileshwaran</span></h1>
-
-<p>
-  <em>🎓 Computer Science Student • 💡 Curious Learner • ⚡ Problem Solver • 🌐 Tech Explorer</em>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Code.+Build.+Learn.+Repeat.;Problem+Solver+%7C+Tech+Learner+%7C+Open+to+Collab" alt="Typing Animation" />
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=KabileshwaranKabil.KabileshwaranKabil" alt="Visitor Count" />
-  <img src="https://img.shields.io/github/followers/KabileshwaranKabil?label=Follow&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status" />
-</p>
-
-## 🚀 About Me
-
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"/>
-</div>
-
-<p align="justify">
-  Hi there! I'm <strong>M. Kabileshwaran</strong>, a passionate Computer Science student from Sri Lanka 🇱🇰. I thrive on turning complex problems into elegant solutions through code. My journey in tech is driven by curiosity, creativity, and a relentless pursuit of knowledge.
-</p>
-
-<p align="justify">
-  Currently, I'm honing my skills in <strong>Data Structures & Algorithms</strong>, <strong>Full-Stack Development</strong>, and <strong>emerging technologies</strong>. I believe in the power of technology to create positive change and am always excited to collaborate on projects that make a difference.
-</p>
-
-> 💭 *"The best way to predict the future is to create it."* – Peter Drucker
-
-
-## 📊 GitHub Analytics & Contributions
-
-
-### 📈 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KabileshwaranKabil&theme=github-dark&hide_border=true&area=true&custom_title=Kabileshwaran's%20Contribution%20Activity)
-
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=KabileshwaranKabil&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117)
-
-### 📊 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KabileshwaranKabil&layout=compact&theme=radical&hide_border=true" height="165" />
-    </td>
-  </tr>
-</table>
-
-### 🌟 Contribution Highlights
-- **Active Contributor** to multiple open-source projects
-- **Regular commits** across different tech stacks
-- **Code reviews** and issue triaging
-- **Documentation improvements** and bug fixes
-- **Project maintenance** and dependency updates
-
-*GitHub activity updated daily via GitHub Actions*
-
-## 🎯 Current Focus
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://media.giphy.com/media/3o7TKz9bX9Z8LxOq5K/giphy.gif" width="100"/><br>
-        <strong>DSA Mastery</strong><br>
-        Strengthening foundations in Java
-      </td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100"/><br>
-        <strong>Full-Stack Dev</strong><br>
-        Python/Django + JavaScript
-      </td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/3o7TKsQXwX4K8Z8z8E/giphy.gif" width="100"/><br>
-        <strong>Open-Source</strong><br>
-        Contributing to projects
-      </td>
-    </tr>
-  </table>
-</div>
-
-- 🔍 **Deepening DSA Knowledge**: Solving 500+ LeetCode problems
-- 🏗️ **Building Scalable Apps**: From concept to deployment
-- 🌟 **Continuous Learning**: Exploring new technologies and frameworks
-- 📚 **Open-Source Contribution**: Reading tech blogs, watching tutorials, contributing to open-source
-
-
-## 🎓 Background
-
-<div align="center">
-  <img src="https://img.shields.io/badge/University-Eastern%20University%20of%20Sri%20Lanka-blue?style=for-the-badge&logo=university&logoColor=white" alt="University" />
-  <img src="https://img.shields.io/badge/Degree-Computer%20Science-green?style=for-the-badge&logo=book&logoColor=white" alt="Degree" />
-  <img src="https://img.shields.io/badge/Location-Trincomalee%2C%20Sri%20Lanka-orange?style=for-the-badge&logo=map&logoColor=white" alt="Location" />
-</div>
-
-- 🎓 **Bachelor of Computer Science** at Eastern University of Sri Lanka (Trincomalee Campus)
-- 📍 **Location**: Trincomalee, Sri Lanka
-- 🌟 **Key Courses**: Data Structures, Algorithms, Database Systems, Web Development
-- 💡 **Inspiration**: Driven by how technology can bridge gaps and solve real-world problems
-- 📊 **GitHub Stats**: 20 repositories, 311 contributions in the last year
-
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hey%2C%20I%27m%20Kabileshwaran%20👋&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=CS%20Student%20from%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0%20%7C%20Building%20my%20path%2C%20one%20commit%20at%20a%20time&descAlignY=60&descSize=16&animation=fadeIn" />
 
-### 🌐 Web Technologies
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=7C9EFF&center=true&vCenter=true&width=650&lines=Java+%7C+Python+%7C+JavaScript+%7C+C%2B%2B;DSA+grinder+%E2%9A%94%EF%B8%8F+%7C+Full-Stack+explorer+%F0%9F%8C%90;Writing+code+and+occasionally+poetry+%F0%9F%93%9C;Open+to+internships+%26+collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
 
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
+<br/>
 
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
+<a href="https://github.com/KabileshwaranKabil">
+  <img src="https://komarev.com/ghpvc/?username=KabileshwaranKabil&style=flat-square&color=7C9EFF&label=Profile+Views" />
+</a>
+&nbsp;
+<a href="https://github.com/KabileshwaranKabil?tab=followers">
+  <img src="https://img.shields.io/github/followers/KabileshwaranKabil?label=Followers&style=flat-square&color=7C9EFF" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collabs-4CAF50?style=flat-square" />
 
 </div>
-
-
-## � Featured Projects
-
-<div align="center">
-  <h3>🌟 Highlighted Work</h3>
-</div>
-
-### 🏆 [CPP Fundamentals Lab](https://github.com/KabileshwaranKabil/cpp-fundamentals-lab)
-
-**Tech Stack:** C++  
-**Description:** A collection of C++ programs designed to help revise and reinforce basic C++ concepts. This repository includes examples and exercises covering fundamental topics such as variables, loops, functions, and more.  
-**Key Features:**
-- 📚 Comprehensive examples for beginners
-- 🔧 Hands-on exercises
-- 🚀 Perfect for learning and revision
-
-**⭐ Stars:** ![GitHub stars](https://img.shields.io/github/stars/KabileshwaranKabil/cpp-fundamentals-lab?style=social)  
-**📦 Language:** C++
 
 ---
 
-### 🌐 [Kabileshwaran Portfolio](https://github.com/KabileshwaranKabil/kabileshwaran-portfolio)
+## 🙋 Who am I?
 
-**Tech Stack:** HTML, CSS, JavaScript  
-**Description:** A structured and responsive personal portfolio website. The site highlights academic profile, technical skills, selected projects, and contact pathways.  
-**Key Features:**
-- 📱 Fully responsive design
-- 🎨 Modern UI/UX
-- 📋 Showcase of skills and projects
+I'm **Kabileshwaran** — a second-year Computer Science student at **Eastern University of Sri Lanka**, Trincomalee Campus. I come from a small island but I think in big systems.
 
-**⭐ Stars:** ![GitHub stars](https://img.shields.io/github/stars/KabileshwaranKabil/kabileshwaran-portfolio?style=social)  
-**🌐 Live Demo:** [Portfolio Site](https://kabileshwaran-portfolio.vercel.app/)
+My journey into CS started with curiosity and a love for problem-solving, and it's grown into something I genuinely can't stop thinking about.I am learning to write code that I'm actually proud of — not just code that works.
 
----
+I'm not chasing perfection. I'm chasing **progress**. Every project I push, every bug I fix, every blog post I write — it's all part of a longer story I'm still writing.
 
-### 📝 [Personal Blog Django](https://github.com/KabileshwaranKabil/personal-blog-django)
+> *"I'm not competing with others; I'm competing with who I was yesterday."*
 
-**Tech Stack:** Python, Django  
-**Description:** A simple yet structured blog application built with Django for learning and portfolio purposes.  
-**Key Features:**
-- ✍️ Blog post creation and management
-- 👤 User authentication
-- 📱 Clean and simple interface
-
-**⭐ Stars:** ![GitHub stars](https://img.shields.io/github/stars/KabileshwaranKabil/personal-blog-django?style=social)  
-**📦 Language:** Python
+When I’m not coding, I read self-help books, watch movies , or play sudoku. ♟️
 
 ---
 
-### 🎮 [Snake Game using SFML](https://github.com/KabileshwaranKabil/snake-game-using-sfml)
-
-**Tech Stack:** C++, SFML  
-**Description:** A classic Snake game implemented in C++ using the SFML library. This project demonstrates fundamental game development concepts.  
-**Key Features:**
-- 🎯 Classic gameplay
-- 🎨 SFML graphics
-- 🕹️ Event handling and game loops
-
-**⭐ Stars:** ![GitHub stars](https://img.shields.io/github/stars/KabileshwaranKabil/snake-game-using-sfml?style=social)  
-**📦 Language:** C++
-
-
-🔗 **View All Projects:** [**My GitHub Repositories**](https://github.com/KabileshwaranKabil?tab=repositories)
+## 🛠️ What I work with
 
 <div align="center">
-  <h3>✍️ My Writings</h3>
+
+**Languages I speak (to computers)**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Web & Frameworks**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-5382A1?style=for-the-badge&logo=java&logoColor=white)
+
+**Tools I rely on**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 </div>
 
-I love sharing knowledge through writing. Here are some of my recent writings:
+---
 
-- [**Introduction to Bash**](https://kabileshwarankabil.github.io/notes/2026/01/27/Introduction-to-Bash.html) - Personal Blog
-- [**Essential Linux Commands**](https://kabileshwarankabil.github.io/notes/2026/01/26/Linux-Essential-Commands.html) - Personal Blog
-- [**How I Built My Blog with GitHub Pages**](https://kabileshwarankabil.github.io/notes/2026/01/16/How-I-Built-My-Blog-with-GitHub-Pages.html) - Personal Blog
-- [**Git Basics Cheat Sheet**](https://kabileshwarankabil.github.io/notes/2026/01/16/Git-Basics.html) - Personal Blog
-- [**Day 9 of DSA: Sliding Window**](https://kabileshwarankabil.github.io/dsa/2026/01/10/day-9-Sliding-Window.html) - Personal Blog
-- [**Day 8 of DSA: Advanced Sorting Algorithms**](https://kabileshwarankabil.github.io/dsa/2026/01/09/day-8-Sorting_part02.html) - Personal Blog
-
-📖 **Read More:** [My Personal Blog](https://kabileshwarankabil.github.io/) - where I write blogs and share my learnings | [DEV.to Profile](https://dev.to/kabileshwarankabil) | [Medium Profile](https://medium.com/@kabileshwaran1896)
-
-
-## 🌐 Connect With Me
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <h3>🤝 Let's Connect!</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=KabileshwaranKabil&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" alt="GitHub Trophies"/>
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/m-kabileshwaran-4018a5378"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/u/Kabileshwaran1896/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-  <a href="https://dev.to/kabileshwarankabil"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to"/></a>
-  <a href="https://medium.com/@kabileshwaran1896"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-  <a href="https://www.geeksforgeeks.org/user/kabileshw8wzh/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
-  <a href="https://www.reddit.com/user/Kabileshwaran/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
-  <a href="mailto:kabileshwaran1896@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://kabileshwarankabil.github.io/"><img src="https://img.shields.io/badge/Personal_Site-000000?style=for-the-badge&logo=github&logoColor=white" alt="Personal Site"/></a>
-</p>
+---
 
-
-## 📞 Contact
+## 📊 My GitHub in numbers
 
 <div align="center">
-  <h3>💬 Get In Touch</h3>
-</div>
-
-<p align="center">
-  I'm always open to discussing new opportunities, collaborations, or just having a chat about technology!
-</p>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-        <br>
-        <strong>Email</strong><br>
-        <a href="mailto:kabileshwaran1896@gmail.com">kabileshwaran1896@gmail.com</a>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
-        <br>
-        <strong>Phone</strong><br>
-        +94 78 429 4012
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
-        <br>
-        <strong>Portfolio</strong><br>
-        <a href="https://kabileshwaran-portfolio.vercel.app/" target="_blank">kabileshwaran-portfolio.vercel.app</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Location-FF6B35?style=for-the-badge&logo=map&logoColor=white" alt="Location"/>
-        <br>
-        <strong>Location</strong><br>
-        Nuwara Eliya, Sri Lanka
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        <br>
-        <strong>LinkedIn</strong><br>
-        <a href="https://www.linkedin.com/in/m-kabileshwaran-4018a5378" target="_blank">M. Kabileshwaran</a>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-        <br>
-        <strong>GitHub</strong><br>
-        <a href="https://github.com/KabileshwaranKabil" target="_blank">@KabileshwaranKabil</a>
-      </td>
-    </tr>
-  </table>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KabileshwaranKabil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KabileshwaranKabil&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="300"/>
+  <img src="https://streak-stats.demolab.com/?user=KabileshwaranKabil&theme=tokyonight&hide_border=true&background=0d1117&dates=7C9EFF&fire=FF7043&ring=7C9EFF" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KabileshwaranKabil&theme=tokyo-night&hide_border=true&bg_color=0d1117&custom_title=Contribution%20Activity" alt="Contribution Graph" />
+</div>
 
-<p align="center">
-  ✨ <b>Always learning, building, and exploring new possibilities in tech.</b> ✨
-</p>
+---
 
-<p align="center">
-  Don't compare yourself with anyone in this world… if you do so, you are insulting yourself. – <b>Bill Gates</b>
-</p>
+## ⚔️ LeetCode — the daily grind
 
-<p align="center">
-  I'm not competing with others; I'm competing with who I was yesterday.
-</p>
+I practice DSA consistently in Java. Every problem is a small war, and I'm slowly winning more than I lose.
 
-⭐ **Thanks for visiting my profile!** This is just the beginning of my journey — every project and every challenge makes me better than yesterday.  
-Let's learn, build, and grow together 🚀✨
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Kabileshwaran1896?theme=dark&font=JetBrains%20Mono&ext=heatmap&hide_border=true" alt="LeetCode Stats"/>
+</div>
 
-<p align="center">
-  <sub>© 2026 Kabileshwaran — Built with intention, curiosity, and clarity.</sub>
-</p>
+---
+
+## 🗂️ Projects I've built
+
+These aren't just portfolio pieces — each one taught me something that stuck.
+
+| Project | Stack | What I learned |
+|--------|-------|----------------|
+| [🏪 CityBookshop](https://github.com/KabileshwaranKabil) | Java · JavaFX | OOP design, GUI state management |
+| [🎮 Snake Game](https://github.com/KabileshwaranKabil/snake-game-using-sfml) | C++ · SFML | Game loops, event handling, rendering |
+| [📝 Personal Blog](https://github.com/KabileshwaranKabil/personal-blog-django) | Python · Django | Auth flows, MVC patterns, deployment |
+| [🌐 Portfolio Site](https://github.com/KabileshwaranKabil/kabileshwaran-portfolio) | HTML · CSS · JS | Responsive design, real shipping |
+| [📘 C++ Fundamentals Lab](https://github.com/KabileshwaranKabil/cpp-fundamentals-lab) | C++ | Teaching by building — for myself & others |
+
+🔗 [See everything I've built →](https://github.com/KabileshwaranKabil?tab=repositories)
+
+---
+
+## ✍️ Things I've written
+
+I write to understand things better. If one post helps someone click, that's enough for me.
+
+<!-- BLOG-POST-LIST:START -->
+- 📖 [Introduction to Bash](https://kabileshwarankabil.github.io/notes/2026/01/27/Introduction-to-Bash.html)
+- 🐧 [Essential Linux Commands](https://kabileshwarankabil.github.io/notes/2026/01/26/Linux-Essential-Commands.html)
+- 🛠️ [How I Built My Blog with GitHub Pages](https://kabileshwarankabil.github.io/notes/2026/01/16/How-I-Built-My-Blog-with-GitHub-Pages.html)
+- 📋 [Git Basics Cheat Sheet](https://kabileshwarankabil.github.io/notes/2026/01/16/Git-Basics.html)
+- 🔍 [Day 9 of DSA: Sliding Window](https://kabileshwarankabil.github.io/dsa/2026/01/10/day-9-Sliding-Window.html)
+- 📊 [Day 8 of DSA: Advanced Sorting Algorithms](https://kabileshwarankabil.github.io/dsa/2026/01/09/day-8-Sorting_part02.html)
+<!-- BLOG-POST-LIST:END -->
+
+📖 [Read more on my blog →](https://kabileshwarankabil.github.io/) &nbsp;·&nbsp; [DEV.to](https://dev.to/kabileshwarankabil) &nbsp;·&nbsp; [Medium](https://medium.com/@kabileshwaran1896)
+
+
+---
+
+## 📬 Let's talk
+
+I'm always open to a good conversation — whether it's about tech, open source, cinema, or anything in between.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-kabileshwaran-4018a5378)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Kabileshwaran1896/)
+[![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kabileshwarankabil)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kabileshwaran1896)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/kabileshw8wzh/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kabileshwaran-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabileshwaran1896@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn" />
+
+<sub>© 2026 Kabileshwaran · still learning · still building · still going 🚀</sub>
+
+</div>
