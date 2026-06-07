@@ -41,13 +41,13 @@ I build clean, practical software that solves real workflow problems while keepi
 ## Selected Projects
 
 - **CityBookshop**: A desktop operations app built with **Java + JavaFX** that streamlines bookstore inventory and billing workflows.  
-  **Repo:** [CityBookshop](https://github.com/KabileshwaranKabil) · **Live Demo:** [Add Demo Link](#)
+  **Repo:** [Add Repository Link](<repo-link-citybookshop>) · **Live Demo:** Coming soon
 
 - **Snake Game (SFML)**: A real-time game built with **C++ + SFML** that demonstrates responsive rendering and event-loop architecture.  
-  **Repo:** [snake-game-using-sfml](https://github.com/KabileshwaranKabil/snake-game-using-sfml) · **Live Demo:** [Add Demo Link](#)
+  **Repo:** [snake-game-using-sfml](https://github.com/KabileshwaranKabil/snake-game-using-sfml) · **Live Demo:** Coming soon
 
 - **Django Blog Platform**: A full-stack content app built with **Python + Django + SQL** that solves authenticated publishing and content management.  
-  **Repo:** [personal-blog-django](https://github.com/KabileshwaranKabil/personal-blog-django) · **Live Demo:** [Add Demo Link](#)
+  **Repo:** [personal-blog-django](https://github.com/KabileshwaranKabil/personal-blog-django) · **Live Demo:** Coming soon
 
 ---
 
