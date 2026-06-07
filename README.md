@@ -4,7 +4,7 @@
   <h3>Full-Stack & Systems-Focused Developer · Java, Python, C++, JavaScript</h3>
 
   <p>
-    <img src="https://img.shields.io/badge/Location-India-1f2937?style=flat-square" />
+    <img src="https://img.shields.io/badge/Location-Sri Lanka-1f2937?style=flat-square" />
     <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-166534?style=flat-square" />
     <img src="https://img.shields.io/badge/Focus-DSA%20%7C%20Full--Stack%20%7C%20ML-1f2937?style=flat-square" />
   </p>
@@ -55,18 +55,11 @@ I apply disciplined **DSA-first problem solving** and currently focus on full-st
 
 ## GitHub Metrics
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KabileshwaranKabil&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KabileshwaranKabil&layout=compact&theme=github_dark&hide_border=true" />
-</div>
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KabileshwaranKabil&theme=github-dark&hide_border=true&area=true" alt="Daily contribution graph" />
 </div>
 
-<div align="center">
-  <img width="95%" src="https://raw.githubusercontent.com/KabileshwaranKabil/Kabileshwarankabil/main/dist/github-contribution-grid-snake.svg" alt="Contribution snake" />
-</div>
 
 ---
 
