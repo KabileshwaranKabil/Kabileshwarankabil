@@ -21,7 +21,9 @@
 
 ## Core Value
 
-I build clean, practical software that solves real workflow problems while keeping architecture maintainable. My strongest stack includes **Java, Python, C++, JavaScript, Django, JavaFX, SQL, and Linux/Git tooling**, backed by disciplined **DSA-first problem solving**. I’m currently focused on full-stack project depth and ML/data foundations through production-style builds and technical writing.
+I build clean, practical software that solves real workflow problems while keeping architecture maintainable.  
+My strongest stack includes **Java, Python, C++, JavaScript, Django, JavaFX, SQL, and Linux/Git tooling**.  
+I apply disciplined **DSA-first problem solving** and currently focus on full-stack project depth plus ML/data foundations through production-style builds and technical writing.
 
 ---
 
