@@ -1,82 +1,317 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:1f2937&height=170&section=header&text=M.%20Kabileshwaran&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Undergraduate%20%7C%20Building%20production-ready%20apps&descAlignY=58&descSize=13" />
 
-  <h3>Full-Stack & Systems-Focused Developer · Java, Python, C++, JavaScript</h3>
+# M. Kabileshwaran
 
-  <p>
-    <img src="https://img.shields.io/badge/Location-Sri Lanka-1f2937?style=flat-square" />
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-166534?style=flat-square" />
-    <img src="https://img.shields.io/badge/Focus-DSA%20%7C%20Full--Stack%20%7C%20ML-1f2937?style=flat-square" />
-  </p>
+### Computer Science Undergraduate · Software Developer
 
-  <p>
-    <a href="https://www.linkedin.com/in/m-kabileshwaran-4018a5378"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="https://kabileshwaran-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-    <a href="https://kabileshwarankabil.github.io/"><img src="https://img.shields.io/badge/Technical%20Blog-CC0000?style=flat-square&logo=jekyll&logoColor=white" /></a>
-    <a href="mailto:kabileshwaran1896@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  </p>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=%24+whoami;Computer+Science+Undergraduate;%24+build;Software+%7C+Systems+%7C+Ideas;%24+status;Always+learning.+Always+building." alt="Terminal typing animation"/>
+
+<br>
+
+<a href="https://github.com/KabileshwaranKabil">
+<img src="https://img.shields.io/badge/GitHub-KabileshwaranKabil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/kabileshwaran1896">
+<img src="https://img.shields.io/badge/LinkedIn-Kabileshwaran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://kabileshwaran-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=KabileshwaranKabil&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile views"/>
+
 </div>
 
----
-
-## Core Value
-
-I build clean, practical software that solves real workflow problems while keeping architecture maintainable.  
-My strongest stack includes **Java, Python, C++, JavaScript, Django, JavaFX, SQL, and Linux/Git tooling**.  
-I apply disciplined **DSA-first problem solving** and currently focus on full-stack project depth plus ML/data foundations through production-style builds and technical writing.
+<br>
 
 ---
 
-## Targeted Tech Stack
+# About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I'm a **Computer Science undergraduate** interested in software engineering, application development, and problem solving.
+
+I enjoy taking an idea, understanding the underlying problem, and turning it into a working piece of software.
+
+My development philosophy is simple:
+
+**Understand → Build → Debug → Improve**
+
+I'm particularly interested in writing software that is practical, maintainable, and understandable.
+
+</td>
+
+<td width="40%" valign="top">
+
+```text
+┌────────────────────────────┐
+│       DEVELOPER            │
+├────────────────────────────┤
+│                            │
+│  Field                     │
+│  Computer Science          │
+│                            │
+│  Focus                     │
+│  Software Engineering      │
+│                            │
+│  Approach                  │
+│  Build & Understand        │
+│                            │
+│  Mindset                   │
+│  Technical • Creative      │
+│  Quiet • Curious           │
+│                            │
+└────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+# Technical Stack
 
 ### Languages
-`Java` `Python` `C++` `C` `JavaScript` `SQL`
 
-### Frameworks & Libraries
-`Django` `JavaFX` `NumPy` `Pandas` `HTML5` `CSS3`
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" alt="Programming languages"/>
+</p>
 
-### Databases, Tools & Systems
-`MySQL` `PostgreSQL` `Git` `GitHub` `Linux`
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend technologies"/>
+</p>
+
+### Backend & Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,spring" alt="Backend technologies"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Databases"/>
+</p>
+
+### Tools & Environment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vscode,idea" alt="Development tools"/>
+</p>
 
 ---
 
-## Selected Projects
+# Featured Work
 
-- **Snake Game (SFML)**: A real-time game built with **C++ + SFML** that demonstrates responsive rendering and event-loop architecture.  
-  **Repo:** [snake-game-using-sfml](https://github.com/KabileshwaranKabil/snake-game-using-sfml)
+<table>
+<tr>
 
-- **Django Blog Platform**: A full-stack content app built with **Python + Django + SQL** that solves authenticated publishing and content management.  
-  **Repo:** [personal-blog-django](https://github.com/KabileshwaranKabil/personal-blog-django)
+<td width="50%" valign="top">
 
-- **Portfolio Website**: A personal web portfolio built with **HTML + CSS + JavaScript** that presents projects, skills, and contact channels in a recruiter-friendly format.  
-  **Repo:** [kabileshwaran-portfolio](https://github.com/KabileshwaranKabil/kabileshwaran-portfolio)
+## Django Blog
 
----
+A structured blog application developed with Django, exploring backend architecture, database operations, authentication, and content management.
 
-## GitHub Metrics
+**Stack**
 
+`Python` `Django` `SQL`
+
+<br>
+
+<a href="https://github.com/KabileshwaranKabil/personal-blog-django">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## Snake Game
+
+A classic Snake game developed in C++ using SFML, focusing on game loops, event handling, rendering, and real-time interaction.
+
+**Stack**
+
+`C++` `SFML`
+
+<br>
+
+<a href="https://github.com/KabileshwaranKabil/snake-game-using-sfml">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## Developer Portfolio
+
+A responsive personal portfolio designed to present technical skills, projects, and professional information.
+
+**Stack**
+
+`HTML` `CSS` `JavaScript`
+
+<br>
+
+<a href="https://github.com/KabileshwaranKabil/kabileshwaran-portfolio">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## C++ Fundamentals Lab
+
+A collection of C++ programs and exercises created to reinforce programming fundamentals and strengthen problem-solving ability.
+
+**Stack**
+
+`C++`
+
+<br>
+
+<a href="https://github.com/KabileshwaranKabil/cpp-fundamentals-lab">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KabileshwaranKabil&theme=github-dark&hide_border=true&area=true" alt="Daily contribution graph" />
+
+<a href="https://github.com/KabileshwaranKabil?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_All_Repositories-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
-
 ---
 
-## Learning Now
-
-- **DSA (Java):** Pattern-based daily problem solving with review loops.
-- **Full-Stack:** JavaScript → React → Node.js through project delivery.
-- **Data Track:** Structured NumPy + Pandas implementation notes.
-
----
-
-## Get In Touch
-
-- LinkedIn: [m-kabileshwaran-4018a5378](https://www.linkedin.com/in/m-kabileshwaran-4018a5378)
-- Technical Blog: [kabileshwarankabil.github.io](https://kabileshwarankabil.github.io/)
-- Professional Email: [kabileshwaran1896@gmail.com](mailto:kabileshwaran1896@gmail.com)
+# GitHub Activity
 
 <div align="center">
-  <sub>© 2026 M. Kabileshwaran</sub>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KabileshwaranKabil&theme=github_dark" alt="GitHub profile activity"/>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KabileshwaranKabil&theme=github_dark" alt="Repositories by language"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KabileshwaranKabil&theme=github_dark" alt="Most committed languages"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+
+</div>
+
+---
+
+# Developer Snapshot
+
+```javascript
+const developer = {
+    name: "M. Kabileshwaran",
+    role: "Computer Science Undergraduate",
+    interests: [
+        "Software Engineering",
+        "Problem Solving",
+        "Application Development"
+    ],
+    languages: [
+        "Java",
+        "Python",
+        "C++",
+        "JavaScript"
+    ],
+    principle: "Understand the problem before solving it."
+};
+```
+
+---
+
+# Beyond Code
+
+<div align="center">
+
+### Cinema · Music · Writing · Philosophy 
+
+<br>
+
+I enjoy exploring ideas beyond technology and finding connections between
+**creativity, systems, people, and the way we think.**
+
+</div>
+
+---
+
+# Let's Connect
+
+<div align="center">
+
+<a href="mailto:kabileshwaran1896@gmail.com">
+<img src="https://img.shields.io/badge/Email-kabileshwaran1896%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kabileshwaran1896">
+<img src="https://img.shields.io/badge/LinkedIn-Kabileshwaran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://kabileshwaran-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/KabileshwaranKabil">
+<img src="https://img.shields.io/badge/GitHub-KabileshwaranKabil-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+### `Build quietly. Think deeply. Ship deliberately.`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0d1117&fontColor=58A6FF"/>
+
 </div>
